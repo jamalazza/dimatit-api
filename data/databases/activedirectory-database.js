@@ -1,6 +1,6 @@
 import ActiveDirectory from 'activedirectory';
 
-var config = {
+const config = {
     url: 'ldap://192.168.1.3',
     baseDN: 'OU=Organisation,DC=dimatit,DC=intra',
     username: 'administrator@dimatit.intra',
