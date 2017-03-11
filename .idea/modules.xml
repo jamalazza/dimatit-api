@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/apollo-starter-kit.iml" filepath="$PROJECT_DIR$/.idea/apollo-starter-kit.iml" />
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/dimatit-api.iml" filepath="$PROJECT_DIR$/.idea/dimatit-api.iml" />
-=======
->>>>>>> origin/master
     </modules>
   </component>
 </project>
