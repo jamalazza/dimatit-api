@@ -11,6 +11,6 @@ RUN npm install
 # Bundle app source
 COPY . /usr/src/dimatitGraphQlApi
 
-EXPOSE 8080 1433
+EXPOSE 80
 
 CMD [ "npm", "start" ]
